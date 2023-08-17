@@ -1,0 +1,9 @@
+- Create Next.js app with NODE
+https://nextjs.org/learn/basics/create-nextjs-app/setup
+
+- NODE version should be latest
+
+Steps 
+1. hot - npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/vercel/next-learn/tree/master/basics/learn-starter"
+
+
