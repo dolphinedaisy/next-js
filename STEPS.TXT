@@ -7,3 +7,9 @@ Steps
 1. hot - npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/vercel/next-learn/tree/master/basics/learn-starter"
 
 
+
+Sample Endpoint - http://localhost:3000/api/sample
+
+Sample Page -
+http://localhost:3000/data/user
+http://localhost:3000/samples/sample-page
